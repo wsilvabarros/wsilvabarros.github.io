@@ -13,5 +13,13 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
- 
+ {% comment %}
+  <!-- Only show related pages on a page when `related: true` -->
+{% endcomment %}
+{% if page.id and page.related %}
+  <div class="wrapper">
+    <h3>See also</h3>
+    {% include related.html %}
+  </div>
+{% endif %}
 </article>
