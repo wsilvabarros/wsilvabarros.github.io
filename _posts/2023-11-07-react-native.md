@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desenvolvimento de Aplicativos Móveis com React Native: Uma Abordagem Moderna"
-image: "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kZXxlbnwwfHwwfHx8MA%3D%3D"
+image: "https://images.ctfassets.net/aq13lwl6616q/2gqVi4hhjq9vgvdh63UoKZ/c763c6f7e98a80eb2800bbe5eb9d690d/react_native_zero_to_mastery.png"
 preview: "teste 2"
 ---
 <hr/><br/>
