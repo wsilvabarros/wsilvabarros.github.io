@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{}
+
               <div class="blog container">
   {% for post in site.posts %}
        <div class="card" style="width: 18rem;">
@@ -12,11 +12,11 @@ layout: default
                     <a href="{{ post.url }}">Veja Mais</a>
                 </div>
             </div>
-      <a href="{{ post.url }}">{{ post.title }}</a
+ 
    
   {% endfor %}
      </div>
-     {}
+
                
 
 
