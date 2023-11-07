@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="post">
-
+<img src="{{ page.image }}" style="width:100%; border-radius:15px;"/>
   <h1>{{ page.title }}</h1>
 
   <div class="entry">
@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+   Postado em {{ page.date | date: "%B %e, %Y" }}
   </div>
 
  {% comment %}
@@ -18,7 +18,7 @@ layout: default
 {% endcomment %}
 {% if page.id and page.related %}
   <div class="wrapper">
-    <h3>See also</h3>
+    <h3>Veja também >> </h3>
     {% include related.html %}
   </div>
 {% endif %}
