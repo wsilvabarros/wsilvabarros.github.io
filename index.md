@@ -2,7 +2,7 @@
 layout: default
 ---
 
-              <div class="blog container">
+            
   {% for post in site.posts %}
        <div class="card" style="width: 18rem;">
                 <img src="{{ post.image }}" class="card-img-top" alt="{{ post.title }}">
@@ -15,7 +15,7 @@ layout: default
  
    
   {% endfor %}
-     </div>
+
 
                
 
