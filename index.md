@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-<div class="first-content d-flex flex-direction-row">
-            <div class="d-flex justify-content-center align-items-center">
+<div class="first-content d-flex flex-direction-row justify-content-space-between">
+            <div class="d-flex justify-content-center align-items-center" style="width:49%;>
                         <h1> Olá,  </h1>
             </div>
-            <div class="d-flex justify-content-center align-items-center">
+            <div class="d-flex justify-content-center align-items-center" style="width:49%;">
                         <img src="https://williambarros.com.br/assets/image/destaque.png"  style="height:100%;" alt="Tecnologia e Desenvolvimento"/>
             </div>
 </div>
