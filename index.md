@@ -3,8 +3,13 @@ layout: default
 ---
 
 
-<div class="first-content d-flex justify-content-center">
-<h1> Olá</h1>
+<div class="first-content d-flex flex-direction-row">
+            <div class="d-flex justify-content-center align-items-center">
+                        <h1> Olá,  </h1>
+            </div>
+            <div class="d-flex justify-content-center align-items-center">
+                        <img src="https://williambarros.com.br/assets/image/destaque.png"  style="height:100%;" alt="Tecnologia e Desenvolvimento"/>
+            </div>
 </div>
 
             
