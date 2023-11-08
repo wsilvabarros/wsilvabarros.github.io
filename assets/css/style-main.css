@@ -83,10 +83,10 @@
             background-color: #23272f;
             border:1px solid #23272f;
            color:white;
+            margin-bottom:25px;
            box-shadow: 2px 0px 30px -11px rgba(0,0,0,0.67);
--webkit-box-shadow: 2px 0px 30px -11px rgba(0,0,0,0.67);
--moz-box-shadow: 2px 0px 30px -11px rgba(0,0,0,0.67);
-          
+            -webkit-box-shadow: 2px 0px 30px -11px rgba(0,0,0,0.67);
+            -moz-box-shadow: 2px 0px 30px -11px rgba(0,0,0,0.67);          
         }
         @keyframes carhover {
             from {border-bottom:0px solid #1e8a14;}
