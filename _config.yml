@@ -1,4 +1,4 @@
-permalink: /post/:year/:month/:title
+permalink: /blog/:year/:month/:title
 language: pt
 compress_html:
   clippings: []
