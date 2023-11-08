@@ -3,13 +3,16 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="">
+        {% if page.url == "/" %}
+        <meta name="description" content="Olá, sou Desenvolvedor Web Full Stack. Com mais de 4 anos de experiência no Mercado.">
+        {% else %}
+        {% endif %}
         <meta name="keywords" content="HTML, CSS, JavaScript, Desenvolvedor, web,">
         <meta name="author" content="William Barros">
         <meta name="language" content="pt-BR">
         <link rel="manifest" href="https://williambarros.com.br/site.webmanifest" />
         <title>{% if page.url == "/" %}William Barros - Desenvolvedor WEB e Mobile [Portifólio]{% else %}
- {{ page.title }} William Barros - Desenvolvedor WEB e Mobile [Portifólio]{% endif %}</title>
+ {{ page.title }}William Barros - Desenvolvedor WEB e Mobile [Portifólio]{% endif %}</title>
         <link rel="stylesheet" href="https://williambarros.com.br/assets/css/style-main.css" />
     </head>
     <body>
