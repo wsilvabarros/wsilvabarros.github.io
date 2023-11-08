@@ -8,7 +8,8 @@
         <meta name="author" content="William Barros">
         <meta name="language" content="pt-BR">
         <link rel="manifest" href="https://williambarros.com.br/site.webmanifest" />
-        <title>{{ page.title | append: " - " }} William Barros - Desenvolvedor WEB e Mobile [Portifólio]</title>
+        <title>{% if page.url == "/" %}William Barros - Desenvolvedor WEB e Mobile [Portifólio]{% else %}
+ {{ page.title }} William Barros - Desenvolvedor WEB e Mobile [Portifólio]{% endif %}</title>
         <link rel="stylesheet" href="https://williambarros.com.br/assets/css/style-main.css" />
     </head>
     <body>
