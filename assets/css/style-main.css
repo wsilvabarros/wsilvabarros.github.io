@@ -127,7 +127,20 @@
             background-color: #191b20;
             color:white;
         }
+            .first-step{
+              width:49%;
+            }
+            .first-step-image{
+              height:100%;
+            }
         @media (max-width : 770px) {
+            .first-step-image{
+                        width:100%;
+              height:auto;
+            }
+            .first-step{
+              width:100%;
+            }
             .hidden-mobile{
                 display: none;
             }  
