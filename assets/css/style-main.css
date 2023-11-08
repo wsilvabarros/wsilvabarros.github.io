@@ -67,11 +67,12 @@
         .blog{
             padding-top: 15px;
             padding-bottom: 15px;
-           /* border-top:2px dashed #383e49;*/
+    /* border-top: 2px dashed #383e49; */
             display: flex;
             flex-direction: row;
-            justify-content: space-around;
-          
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+            align-content: space-between;
         }
         .first-content{
             height: 400px;
