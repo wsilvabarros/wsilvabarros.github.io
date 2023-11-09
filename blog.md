@@ -4,9 +4,7 @@ title:  "Blog de Tecnologia"
 permalink: /blog
 ---
 
----
-layout: default
----
+
 
 <h1>Últimos Posts</h1>
 
