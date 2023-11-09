@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Blog de Tecnologia"
-permalink: /blog-post
+permalink: /blog
 ---
 
 
