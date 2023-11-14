@@ -14,8 +14,9 @@ layout: default
     <img src="https://williambarros.com.br/assets/image/competencias/8.png" width="150" height="150" alt="MySQL" />
     <img src="https://williambarros.com.br/assets/image/competencias/9.png" width="150" height="150" alt="PostgreSQL" />
     <img src="https://williambarros.com.br/assets/image/competencias/10.png" width="150" height="150" alt="bootstrap" />
-    <img src="https://williambarros.com.br/assets/image/competencias/12.png" width="150" height="150" alt="Electron JS" />
-    <img src="https://williambarros.com.br/assets/image/competencias/13.png" width="150" height="150" alt="Socket.io" />
+     <img src="https://williambarros.com.br/assets/image/competencias/11.png" width="150" height="150" alt="Electron JS"/>
+    <img src="https://williambarros.com.br/assets/image/competencias/12.png" width="150" height="150"  alt="Socket.io"/>
+    
 </div></div><div style="border-top:3px dashed #4b515f; width:100%;"><br/><h3>Idiomas</h3> </div> <div style="border-top:3px dashed #4b515f; width:100%;"><br/><h3> + Blog</h3> </div><div class="blog container" >{% for post in site.posts limit:6 %}<div class="card"><a href="{{ BASE_PATH }}{{ post.url }}" class="linkcard"><img src="{{ post.image }}" class="card-img-top " alt="{{ post.title }}" /><div class="card-body"><h5 class="card-title">{{ post.title }}</h5><p class="card-text">{{ post.preview }}</p></div></a></div>{% endfor %}</div>
 
 
