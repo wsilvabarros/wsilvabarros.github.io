@@ -5,7 +5,8 @@ permalink: /contato
 ---
 
 # Contato
-<a href="mailto:contato@williambarros.com.br" target="_blank"><h1>contato@williambarros.com.br</h1></a>
+<hr/>
+# <a href="mailto:contato@williambarros.com.br" target="_blank">contato@williambarros.com.br</a>
 Se você está interessado em serviços de desenvolvimento web, freelancer, ou se precisa de um profissional para trabalhar sob regime CLT ou PJ, você está no lugar certo.
 
 ## Entre em Contato:
