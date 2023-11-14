@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="first-content d-flex flex-column flex-md-row justify-content-between"><div class="order-md-1 d-flex justify-content-center align-items-center first-step" ><div><h1>Olá, sou Desenvolvedor Web <b style="color:#1e8a14;">Full Stack</b>.</h1><br/> <p>Com mais de 4 anos de experiência no Mercado.</p></div></div><div class="order-md-2 d-flex justify-content-center align-items-center first-step" ><img src="https://williambarros.com.br/assets/image/destaque.webp" class="first-step-image" alt="Tecnologia e Desenvolvimento"></div></div>
 
-<div style="border-top:3px dashed #4b515f; width:100%;"><br/><h3>Habilidades</h3> <div style="display:flex; flex-direction:row; flex-wrap: wrap: justify-content: space-between;">
+<div style="border-top:3px dashed #4b515f; width:100%;"><br/><h3>Habilidades</h3> <div style="display:flex; flex-direction:row; flex-wrap: wrap: justify-content: space-between; width:100%; positon:relative;">
 <img src="https://williambarros.com.br/assets/image/competencias/2.png" width="150" height="150" alt="Node js" />
   <img src="https://williambarros.com.br/assets/image/competencias/3.png" width="150" height="150" alt="Php" />
     <img src="https://williambarros.com.br/assets/image/competencias/4.png" width="150" height="150" alt="React JS" />
