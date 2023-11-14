@@ -14,11 +14,33 @@ layout: compress
         <meta name="author" content="William Barros">
         <meta name="language" content="pt-BR">
         <link rel="manifest" href="https://williambarros.com.br/site.webmanifest" />
-        <title>{% if page.url == "/" %}William Barros - Desenvolvedor WEB e Mobile [Portifólio]{% else %}
+        <title>{% if page.url == "/" %} - William Barros - Desenvolvedor WEB e Mobile [Portifólio]{% else %}
  {{ page.title }}William Barros - Desenvolvedor WEB e Mobile [Portifólio]{% endif %}</title>
         <link rel="stylesheet" href="https://williambarros.com.br/assets/css/style-main.css" />
         <!-- Google tag (gtag.js) -->
+        <style>
+            /* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #1e8a14 #23272f;
+  }
 
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #23272f;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #1e8a14;
+    border-radius: 10px;
+    border: 3px solid #1e8a23;
+  }
+        </style>
     </head>
     <body>
         <div class="container">
