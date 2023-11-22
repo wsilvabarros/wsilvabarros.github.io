@@ -4,6 +4,7 @@ title:'Portifólio'
 ---
 
 
+
 # Portifólio
 Olá, sou **William Barros**, um entusiasta do desenvolvimento web apaixonado por criar experiências digitais memoráveis. Minha expertise abrange não apenas o universo do front end, onde dou vida a designs atraentes e funcionais, mas também estende-se ao back end, garantindo que as funcionalidades por trás da interface sejam tão robustas quanto elegantes. Além disso, meu interesse pelo desenvolvimento mobile me permite criar soluções versáteis e acessíveis em todas as plataformas.
 
@@ -24,4 +25,4 @@ O projeto que desenvolvi em parceria com a Mega Mult Outlet consistiu na criaç�
 ## Outlet Raposo Tavares
 
 Fui encarregado de instalar e configurar um site utilizando WordPress e WooCommerce para a Outlet Raposo Tavares. Além disso, desenvolvi uma solução personalizada para o sistema de pagamento. A escolha do WooCommerce foi deliberada, visando proporcionar aos gestores da loja uma interface agradável e de fácil usabilidade, simplificando assim o processo de vendas online.
-**[Acessar o Site](https://megaraposo.com.br/) **
+**[Acessar o Site](https://megaraposo.com.br/)**
