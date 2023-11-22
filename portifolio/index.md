@@ -1,8 +1,7 @@
 ---
-layout: default,
-title:'Portifólio'
+layout: default
+title: 'Portfólio'
 ---
-
 
 
 # Portifólio
